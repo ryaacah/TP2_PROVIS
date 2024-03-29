@@ -17,11 +17,11 @@ Proyek ini adalah aplikasi Flutter yang dibuat untuk platform layanan rawat jala
 4. Laboratorium : Halaman terusan dari rekam medis yang menampilkan hasil dari laboratorium
 
 ## Dokumentasi Program
+#Page Akun
 ![ss_akun](ss_akun.png)
-Page Akun
+#Page Rekam Medis
 ![ss_rekam_medis](ss_rekam_medis.png)
-Page Rekam Medis
+#Page Hasil Radiologi
 ![ss_radiologi](ss_radiologi.png)
-Page Hasil Radiologi
-![ss_laboratorium](laboratorium.png)
-Page Hasil Laboratorium
+#Page Hasil Laboratorium
+![ss_laboratorium](ss_laboratorium.png)
