@@ -7,6 +7,9 @@
 4. Shinta Adhisti 2202479
 5. Syaila Fathia Azzahra 2206272
 
+## Link Figma
+https://www.figma.com/file/T7G3gAdNiAZVxGrl7lIktb/UI-PROVIS?type=design&node-id=0%3A1&mode=design&t=ZBOireOD0NAewEzT-1
+
 ## Deskripsi
 Proyek ini adalah aplikasi Flutter yang dibuat untuk platform layanan rawat jalan sebuah rumah sakit. Aplikasi ini memanfaatkan framework Flutter untuk membangun antarmuka pengguna yang responsif dan menarik.
 
@@ -17,11 +20,11 @@ Proyek ini adalah aplikasi Flutter yang dibuat untuk platform layanan rawat jala
 4. Laboratorium : Halaman terusan dari rekam medis yang menampilkan hasil dari laboratorium
 
 ## Dokumentasi Program
-#Page Akun
+# Page Akun
 ![ss_akun](ss_akun.png)
-#Page Rekam Medis
+# Page Rekam Medis
 ![ss_rekam_medis](ss_rekam_medis.png)
-#Page Hasil Radiologi
+# Page Hasil Radiologi
 ![ss_radiologi](ss_radiologi.png)
-#Page Hasil Laboratorium
+# Page Hasil Laboratorium
 ![ss_laboratorium](ss_laboratorium.png)
